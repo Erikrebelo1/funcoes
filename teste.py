@@ -8,4 +8,4 @@ print(soma(v1,v2))
 def mult (a,b)
     mult = a * b
     return mult 
-print (mult(v1,v2)
+print (mult(v1,v2))
