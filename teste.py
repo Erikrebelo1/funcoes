@@ -4,3 +4,8 @@ def soma (a,b):
 v1 = int(input ("digite o primeiro valor"))
 v2 = int(input ("digite o segundo valor"))
 print(soma(v1,v2))
+
+def mult (a,b)
+    mult = a * b
+    return mult 
+print (mult(v1,v2)
